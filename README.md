@@ -1,11 +1,11 @@
 # Flutter GetX Roadmap
 
 ### Flutter Getx Road Map and what we will leanr in this playlist
-- [Getx Roadmap](https://youtu.be/hNTvw4H5sls)
-- Creating our Project and adding Getx Pacakages
-- Get Material App (Why we used Get Material App)
-- GetX as utilities 
-- GetX Snackbar
-- Getx Dialog Alert
-- Getx Bottom Sheet
-- Getx Change Light & Dark Theme with GetX Flutter 
+- [Getx Roadmap](https://youtu.be/0Peij4Wr21A)
+- [Creating our Project and adding Getx Pacakages](https://youtu.be/0xOEYgaL1HI)
+- [Get Material App (Why we used Get Material App)](https://youtu.be/0xOEYgaL1HI)
+- [GetX as utilities](https://youtu.be/0xOEYgaL1HI)
+- [GetX Snackbar](https://youtu.be/0xOEYgaL1HI)
+- [Getx Dialog Alert](https://youtu.be/NXVhQ-PNIYA)
+- [Getx Bottom Sheet](https://youtu.be/NXVhQ-PNIYA)
+- [Getx Change Light & Dark Theme with GetX Flutter](https://youtu.be/NXVhQ-PNIYA) 
