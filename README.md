@@ -10,3 +10,4 @@
 - [Getx Bottom Sheet](https://youtu.be/NXVhQ-PNIYA)
 - [Getx Change Light & Dark Theme with GetX Flutter](https://youtu.be/NXVhQ-PNIYA) 
 - [Getx Navigator & Routes (How to pass data between different screens)](https://youtu.be/NXVhQ-PNIYA) 
+- [Get height & Get widh](https://youtu.be/NXVhQ-PNIYA)
