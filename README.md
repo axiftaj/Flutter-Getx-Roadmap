@@ -11,3 +11,4 @@
 - [Getx Change Light & Dark Theme with GetX Flutter](https://youtu.be/NXVhQ-PNIYA) 
 - [Getx Navigator & Routes (How to pass data between different screens)](https://youtu.be/Wh868JOu8-4) 
 - [Get height & Get widh](https://youtu.be/NXVhQ-PNIYA)
+- [GetX Localization Change the Language of the App i.g Englihs, Urdu, Hindi](https://youtu.be/NXVhQ-PNIYA)
