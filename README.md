@@ -17,3 +17,6 @@
 # GetX State Manamgent with Example
 - [Why to learn state management GetX](https://youtu.be/pz-jg-zqLOE)
 - [GetX Counter Example, i.e In this example we will create a simple counter app with getx to increment the value of coutner](https://youtu.be/I2ntv8wGEXc)
+- [GetX Example Two](https://youtu.be/I2ntv8wGEXc)
+- [GetX Example Three](https://youtu.be/ziqZy1pJOec)
+- [Favourite App with GetX](https://youtu.be/yGbZ1ah7qZw)
