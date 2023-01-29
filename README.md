@@ -20,7 +20,8 @@
 - [GetX Example Two](https://youtu.be/I2ntv8wGEXc)
 - [GetX Example Three](https://youtu.be/ziqZy1pJOec)
 - [Favourite App with GetX](https://youtu.be/yGbZ1ah7qZw)
-- [GetX Image Picker](https://youtu.be/yGbZ1ah7qZw)
-
+- [GetX Image Picker](https://youtu.be/TUX1DAlzEmE)
+- [Login(Post,Put, Delete) Api With GetX](https://youtu.be/TUX1DAlzEmE)
+- [Get Api with GetX] (https://youtu.be/TUX1DAlzEmE)
 
 # GetX State Manamgent With MVVM with REST APIs
