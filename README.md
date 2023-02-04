@@ -28,5 +28,10 @@
 
 # GetX State Manamgent With MVVM with REST APIs
 
-- [Create Project, Add Pacakges and Directories with Purpose](https://youtu.be/hfdmghXpSWA)
-- [What is MVVM/MVC Pattern](https://youtu.be/TUX1DAlzEmE)
+- [Roadmap Flutter GetX Mvvm/Mvc Architecture ](https://youtu.be/hfdmghXpSWA)
+- [What is MVVM/MVC Pattern/Architecture ](https://youtu.be/yjLgkZAgyoI)
+- [Create Project, Add Pacakges and Directories with Purpose](https://youtu.be/-P-qNddXO00)
+- [Handle App APIs Exceptiions](https://youtu.be/TUX1DAlzEmE)
+- [Handle APIs Response](https://youtu.be/TUX1DAlzEmE)
+- [Network API Services](https://youtu.be/TUX1DAlzEmE)
+- [Routes](https://youtu.be/TUX1DAlzEmE)
