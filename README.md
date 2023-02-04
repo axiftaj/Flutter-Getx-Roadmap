@@ -28,5 +28,5 @@
 
 # GetX State Manamgent With MVVM with REST APIs
 
--[Create Project, Add Pacakges and Directories with Purpose](https://youtu.be/hfdmghXpSWA)
--[What is MVVM/MVC Pattern](https://youtu.be/TUX1DAlzEmE)
+- [Create Project, Add Pacakges and Directories with Purpose](https://youtu.be/hfdmghXpSWA)
+- [What is MVVM/MVC Pattern](https://youtu.be/TUX1DAlzEmE)
