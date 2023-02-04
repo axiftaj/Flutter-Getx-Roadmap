@@ -24,8 +24,9 @@
 - [Login(Post,Put, Delete) Api With GetX](https://youtu.be/TUX1DAlzEmE)
 - [Get Api with GetX](https://youtu.be/TUX1DAlzEmE)
 
-- [Let's leanr how to write clearn code using MVVM with GETx and REST APIs](https://youtu.be/TUX1DAlzEmE)
+- [Let's learn how to write clearn code using MVVM with GETx and REST APIs](https://youtu.be/TUX1DAlzEmE)
 
 # GetX State Manamgent With MVVM with REST APIs
 
--[Create Project, Add Pacakges and Directories with Purpose](https://youtu.be/TUX1DAlzEmE)
+-[Create Project, Add Pacakges and Directories with Purpose](https://youtu.be/hfdmghXpSWA)
+-[What is MVVM/MVC Pattern](https://youtu.be/TUX1DAlzEmE)
